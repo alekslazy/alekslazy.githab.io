@@ -1,1 +1,1 @@
-# alekslazy.githab.io
+# alekslazy.github.io
